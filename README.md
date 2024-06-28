@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gabriel
-- 👀 I’m interested in Linux, C++ e Backend
-- 🌱 I’m currently learning C++ GUI and Web development
-- 💞️ I’m looking to collaborate on C++ Projects with wxwidgets and opencv
+- 👀 I’m interested in Linux, C++, Backend and Mobile Systems
+- 🌱 I’m currently learning Flutter/Dart and performance monitoring
+- 💞️ I’m looking to collaborate on Dart/Flutter and Kotlin projects
 - 📫 How to reach me gtomazini@hotmail.com
 
 <!---
